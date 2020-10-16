@@ -39,6 +39,9 @@
     "mdbootstrap": "^4.19.1",
     "mdbreact": "^4.27.0",
     "radium": "^0.26.0",
+    "react-dropdown-select": "^4.5.2",
+    "react-select": "^3.1.0",
+    "react-widgets": "^5.0.0-beta.21",
     "style-it": "^2.1.4"
   }
 }
